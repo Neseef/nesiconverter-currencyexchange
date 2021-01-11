@@ -34,6 +34,7 @@ import nesiconverter
 ```
 nesiconverter module takes 3 arguments. Currency1, Currency2, and Amount.  
 to call the function we can use ` nesiconverter.convert` "convert" is the function name.  
+  
 for example if you want to convert 2000 riyal to indian rupees,  
 arguments to pass are : currency1 = SAR, currency2 = INR, amount = 2000  
 lets print the result,
