@@ -1,6 +1,7 @@
 # NesiConverter for Currencies.
 This module will calculate the exchange amount of two currencies.  
-There are two version of this module.
+There are two version of this module.  
+`nesiconverter` and `nesiconverter2`  
 
 (Static values are used. exchange rates as per 10/01/2021)  
   
