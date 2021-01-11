@@ -2,7 +2,19 @@
 This module will calculate the exchange amount of two currencies.  
 There are two version of this module.
 
-(Static values are used. exchange rates as per 10/01/2021)
+(Static values are used. exchange rates as per 10/01/2021)  
+  
+### supported currencies:  
+USD - United Stated Doller  
+EUR - Euro  
+AUD - Australian Doller  
+CAD - Canadian Doller 
+CHF - Swiss Franc  
+INR - Indian Rupees  
+RUB - Russian Rubles  
+AED - United Arab Emirated - Dinar  
+SAR - Saudi Riyal  
+KD - Kuwait Dinar
 
 ## Files:
 1. nesiconverter.py : This is a standalone module. Conversion table is manually created as a list.
