@@ -32,7 +32,7 @@ After downloading the module, import module to your program.
 ```python
 import nesiconverter
 ```
-nesiconverter module takes 3 arguments. Currency1, Currency2, and Amount.  
+nesiconverter module takes 3 arguments. currency1, currency2, and amount.  
 to call the function we can use ` nesiconverter.convert` "convert" is the function name.  
   
 for example if you want to convert 2000 riyal to indian rupees,  
