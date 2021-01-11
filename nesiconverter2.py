@@ -5,7 +5,7 @@ def convert (currency1,currency2,amount):
         currency2=currency2.upper()
         exchange_rates = []
 
-        with open ("e_rates.csv", "r") as f:# r read, w write, a append.
+        with open ("e_rates.csv", "r") as f:
             f_read = csv.reader(f)
             for row in f_read:
                 exchange_rates.append(row)
