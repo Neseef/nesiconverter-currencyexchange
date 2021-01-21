@@ -140,6 +140,3 @@ def convert(cur1, cur2, amt):
     for i in e_rates:
         if cur1 == i:
             return float(e_rates[cur1][cur2])*amt
-
-
-print(convert("sar", "inr", 1))
